@@ -24,3 +24,31 @@
 
 
 ###Sprint Supplies
+* Lots of whiteboards (at least 2)
+* A bunch of the same colored sticky note (3x5)
+* Black whiteboard markers (10)
+    Used for stickies and whiteboards
+* Green and Red whiteboard markers (10)
+    Used for Friday's observation notes
+* Black felt-tip pen (10, Medium)
+    Used for sketching on Tuesday
+* Printer paper (100, letter)
+    Used for sketching thoughout the week
+* Masking Tape (1 roll)
+    Used for posting solutions on the wall
+* Small-dot stickers (200, .25 inch)
+    Used for voting, must be same color
+* Large-dot stickers (100, .75 inch)
+    Used for straw polls and super votes
+* Time Timer
+    Keeping time for the sprint
+* SNACKS
+
+
+[Back](../Sprint/Sprint.md)
+
+
+
+
+
+
