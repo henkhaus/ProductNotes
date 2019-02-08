@@ -1,7 +1,7 @@
-#Sprint
-##How to Solve Big Problems and Test New Ideas in Just Five Days
+# Sprint
+## How to Solve Big Problems and Test New Ideas in Just Five Days
 
-###Overview
+### Overview
 
 [Preparation](../Sprint/Preparation.md)  
 [Monday](../Sprint/Monday.md)  
